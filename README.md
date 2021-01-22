@@ -9,10 +9,11 @@ Computer Science graduate passionate about data science and machine learning. Sk
 Bachelor of Science in Computer Science - Graduated December 2020
 Coursework includes: Algorithms and Data Structures, Introduction to Data Mining, Introduction to Artificial Intelligence, Spatial Data Science, Fundamentals of Data Science I, Practice of Database Systems.
 
-> •	Project: An evaluation of Deep Learning Platforms: Pytorch and TensorFlow
+>
+1. Project: An evaluation of Deep Learning Platforms: Pytorch and TensorFlow
 Created multiple models, with different layers, to compare the accuracy reported using Pytorch and TensorFlow frameworks on the CIFAR-10 data set.
-•	Project: A comparison between Hill Climbing, Simulated Annealing and Genetic Algorithm using the Travelling Salesperson Problem
-•	Project: Led a team in the development of a clinic database. The project included creation of ER/EER diagrams, entities mapping, implementation, and testing of the database.
+2. Project: A comparison between Hill Climbing, Simulated Annealing and Genetic Algorithm using the Travelling Salesperson Problem
+3. Project: Led a team in the development of a clinic database. The project included creation of ER/EER diagrams, entities mapping, implementation, and testing of the database.
 
 
 ### Minneapolis Community and Technical College, Minneapolis, MN
@@ -24,6 +25,6 @@ Bachelor of Science in Statistics
 Coursework included: Probability, Multivariate Analysis, Time Series Analysis, Regression Analysis
 
 ## Skills
-●	Programs: Jupyter Notebook, RStudio, MySql Workbench Linux, Excel, PowerPoint
-●	Programming Languages: Python, C++, Java, C, R
-●	Languages: Proficient in English, Portuguese
+1. Programs: Jupyter Notebook, RStudio, MySql Workbench Linux, Excel, PowerPoint
+2. Programming Languages: Python, C++, Java, C, R
+3. Languages: Proficient in English, Portuguese
